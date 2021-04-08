@@ -1,6 +1,6 @@
 import sys,pygame
 pygame.init()
-
+"Leandro.teste"
 size = width,height=1000,700
 speed = [1,1]
 velocidade =[1,1]
@@ -35,3 +35,5 @@ while 1:
     screen.blit(ball2,ballrect2)
     pygame.display.flip()
 
+If __name__ == 'main':
+    Print('oi')
